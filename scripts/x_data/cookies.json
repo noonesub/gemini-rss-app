@@ -1,0 +1,92 @@
+[
+  {
+    "name": "guest_id_marketing",
+    "value": "v1%3A177989788677810810",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1814457889.747404,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_ads",
+    "value": "v1%3A177989788677810810",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1814457889.747652,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id",
+    "value": "v1%3A177989788677810810",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1814457889.067053,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "wr50pO.ebgtqiQUs2w5UUPv5olwE1A8Z5V.EZzXllZ0-1779897886.6836119-1.0.1.1-t51YY4p.Kad.Qfbnapy44nVIcjK__AENfhTZV_M6BYz6KdVsLNOwJWMDxeARJFNwNjBJ1fKuTmneyCcMVOW7pKMgpO0C6CPn_vZ0b265IhDZ5Qn3CEwuAbHGrLGHgElj",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1779899689.067126,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "personalization_id",
+    "value": "\"v1_SDKCnYK4iVfB1yKNup2KXg==\"",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1814457889.747762,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gt",
+    "value": "2059667138030276895",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1779906889.747875,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cuid",
+    "value": "9989e293-aac9-407a-97a3-d2c549e4cf55",
+    "domain": "x.com",
+    "path": "/",
+    "expires": 1814457901,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cuid",
+    "value": "9989e293-aac9-407a-97a3-d2c549e4cf55",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1814457901,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1779897920989,\"i_b\":\"NGcIKLEdoC2vHbBJ7RAQX9SPjRQP9zbKlaq4Y9cclzE\",\"i_e\":{\"enable_itp_optimization\":0},\"i_et\":1779897920456}",
+    "domain": "x.com",
+    "path": "/",
+    "expires": 1795449920,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

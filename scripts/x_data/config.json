@@ -1,0 +1,7 @@
+{
+  "users": ["Kanon_Takao"],
+  "max_tweets_per_user": 20,
+  "headless": true,
+  "scroll_times": 3,
+  "auth_token": "5e84c6897719cf2acd383d36aba4fbf043801a0d"
+}
